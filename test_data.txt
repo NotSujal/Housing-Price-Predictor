@@ -1,0 +1,153 @@
+2022-01-10 11:10:29.916970
+
+
+
+9842:Predicted:   [201258.],   Original:   [225000]
+Difference:   [-23742.] 
+
+9843:Predicted:   [216093.],   Original:   [260300]
+Difference:   [-44207.] 
+
+9844:Predicted:   [375471.07],   Original:   [301000]
+Difference:   [74471.07] 
+
+9845:Predicted:   [200526.],   Original:   [289300]
+Difference:   [-88774.] 
+
+9846:Predicted:   [307258.08],   Original:   [291300]
+Difference:   [15958.08] 
+
+9847:Predicted:   [466900.5],   Original:   [329500]
+Difference:   [137400.5] 
+
+9848:Predicted:   [391639.21],   Original:   [339100]
+Difference:   [52539.21] 
+
+9849:Predicted:   [97781.],   Original:   [225000]
+Difference:   [-127219.] 
+
+9850:Predicted:   [73294.],   Original:   [500000]
+Difference:   [-426706.] 
+
+9851:Predicted:   [111539.],   Original:   [178100]
+Difference:   [-66561.] 
+
+9852:Predicted:   [94139.],   Original:   [179500]
+Difference:   [-85361.] 
+
+9853:Predicted:   [214983.],   Original:   [150000]
+Difference:   [64983.] 
+
+9854:Predicted:   [467542.63],   Original:   [500001]
+Difference:   [-32458.37] 
+
+9855:Predicted:   [232723.],   Original:   [450000]
+Difference:   [-217277.] 
+
+9856:Predicted:   [281103.],   Original:   [347700]
+Difference:   [-66597.] 
+
+9857:Predicted:   [316273.17],   Original:   [500001]
+Difference:   [-183727.83] 
+
+9858:Predicted:   [162718.],   Original:   [278800]
+Difference:   [-116082.] 
+
+9859:Predicted:   [123385.],   Original:   [195300]
+Difference:   [-71915.] 
+
+9860:Predicted:   [149702.],   Original:   [156300]
+Difference:   [-6598.] 
+
+9861:Predicted:   [129829.],   Original:   [191200]
+Difference:   [-61371.] 
+
+9862:Predicted:   [107795.],   Original:   [218000]
+Difference:   [-110205.] 
+
+9863:Predicted:   [228448.],   Original:   [186300]
+Difference:   [42148.] 
+
+9864:Predicted:   [256385.02],   Original:   [221300]
+Difference:   [35085.02] 
+
+9865:Predicted:   [137115.],   Original:   [142100]
+Difference:   [-4985.] 
+
+9866:Predicted:   [246494.07],   Original:   [185000]
+Difference:   [61494.07] 
+
+9867:Predicted:   [96752.],   Original:   [128900]
+Difference:   [-32148.] 
+
+9868:Predicted:   [146265.],   Original:   [191800]
+Difference:   [-45535.] 
+
+9869:Predicted:   [95225.],   Original:   [112800]
+Difference:   [-17575.] 
+
+9870:Predicted:   [69551.],   Original:   [122300]
+Difference:   [-52749.] 
+
+9871:Predicted:   [158067.],   Original:   [169100]
+Difference:   [-11033.] 
+
+9872:Predicted:   [134738.],   Original:   [133100]
+Difference:   [1638.] 
+
+9873:Predicted:   [123667.],   Original:   [131200]
+Difference:   [-7533.] 
+
+9874:Predicted:   [174488.],   Original:   [162400]
+Difference:   [12088.] 
+
+9875:Predicted:   [106881.],   Original:   [161800]
+Difference:   [-54919.] 
+
+9876:Predicted:   [109589.],   Original:   [140400]
+Difference:   [-30811.] 
+
+9877:Predicted:   [93564.],   Original:   [125000]
+Difference:   [-31436.] 
+
+9878:Predicted:   [90419.],   Original:   [108300]
+Difference:   [-17881.] 
+
+9879:Predicted:   [68970.],   Original:   [150000]
+Difference:   [-81030.] 
+
+9880:Predicted:   [93680.],   Original:   [118800]
+Difference:   [-25120.] 
+
+9881:Predicted:   [127109.],   Original:   [162200]
+Difference:   [-35091.] 
+
+9882:Predicted:   [143580.],   Original:   [168300]
+Difference:   [-24720.] 
+
+9883:Predicted:   [275612.01],   Original:   [190000]
+Difference:   [85612.01] 
+
+9884:Predicted:   [122452.],   Original:   [194800]
+Difference:   [-72348.] 
+
+9885:Predicted:   [151906.],   Original:   [174800]
+Difference:   [-22894.] 
+
+9886:Predicted:   [155753.13],   Original:   [162500]
+Difference:   [-6746.87] 
+
+9887:Predicted:   [119265.],   Original:   [146900]
+Difference:   [-27635.] 
+
+9888:Predicted:   [164127.],   Original:   [154600]
+Difference:   [9527.] 
+
+9889:Predicted:   [249418.02],   Original:   [154600]
+Difference:   [94818.02] 
+
+9890:Predicted:   [100429.],   Original:   [183300]
+Difference:   [-82871.] 
+
+9891:Predicted:   [133881.],   Original:   [140200]
+Difference:   [-6319.] 
