@@ -35,10 +35,14 @@ Ocean Proximity:
 
 Error Scores:
 ---------------------
+
 (Mean + Standared Deviation)
-    x                LinearRegression  : 73980.63680247005
-    x        DecisionTreeRegressor  : 88266.61937420537
-            RandomForestRegressor : 64114.286938955425  
+
+    x LinearRegression  : 73980.63680247005
+    
+    x DecisionTreeRegressor  : 88266.61937420537
+    
+    ->RandomForestRegressor : 64114.286938955425  
             
  Final Error:
  -----------------
