@@ -2,7 +2,7 @@
 Notes of Housing Predictor
 ========================
 
-The modek file was too big, run the `Housing.py` file, to create a model locally
+The model file was too big, run the `Housing.py` file, to create a model locally
 
 About this file:
 ----------------------
