@@ -1,0 +1,150 @@
+[130020	]		 Actual: 316800 		Predicted: 186780.0
+
+
+[-20405	]		 Actual: 193800 		Predicted: 214205.0
+
+
+[277506	]		 Actual: 500001 		Predicted: 222494.05
+
+
+[-150559	]		 Actual: 225800 		Predicted: 376359.06
+
+
+[-258433	]		 Actual: 97500 		Predicted: 355933.05
+
+
+[42258	]		 Actual: 350000 		Predicted: 307741.05
+
+
+[-219691	]		 Actual: 96400 		Predicted: 316091.07
+
+
+[-223883	]		 Actual: 225000 		Predicted: 448883.4
+
+
+[-237342	]		 Actual: 100000 		Predicted: 337342.01
+
+
+[-324635	]		 Actual: 150000 		Predicted: 474635.67
+
+
+[-120211	]		 Actual: 74300 		Predicted: 194511.0
+
+
+[102168	]		 Actual: 335700 		Predicted: 233531.06
+
+
+[-99102	]		 Actual: 112800 		Predicted: 211902.0
+
+
+[-49677	]		 Actual: 174600 		Predicted: 224277.0
+
+
+[18631	]		 Actual: 231800 		Predicted: 213168.01
+
+
+[-211932	]		 Actual: 113400 		Predicted: 325332.05
+
+
+[-60754	]		 Actual: 128100 		Predicted: 188854.0
+
+
+[-123682	]		 Actual: 154600 		Predicted: 278282.01
+
+
+[-185754	]		 Actual: 109200 		Predicted: 294954.13
+
+
+[184095	]		 Actual: 500001 		Predicted: 315905.04
+
+
+[-14928	]		 Actual: 298400 		Predicted: 313328.07
+
+
+[-194034	]		 Actual: 107200 		Predicted: 301234.02
+
+
+[222428	]		 Actual: 500001 		Predicted: 277572.01
+
+
+[-195864	]		 Actual: 62300 		Predicted: 258164.01
+
+
+[43371	]		 Actual: 330900 		Predicted: 287529.0
+
+
+[-21731	]		 Actual: 212100 		Predicted: 233831.0
+
+
+[-146318	]		 Actual: 156800 		Predicted: 303118.05
+
+
+[-69970	]		 Actual: 162500 		Predicted: 232470.03
+
+
+[-60875	]		 Actual: 155700 		Predicted: 216575.0
+
+
+[-48603	]		 Actual: 158800 		Predicted: 207403.0
+
+
+[-80766	]		 Actual: 147300 		Predicted: 228066.0
+
+
+[40520	]		 Actual: 251800 		Predicted: 211280.0
+
+
+[215517	]		 Actual: 397800 		Predicted: 182282.02
+
+
+[-137134	]		 Actual: 55000 		Predicted: 192134.0
+
+
+[215565	]		 Actual: 429000 		Predicted: 213435.0
+
+
+[-117023	]		 Actual: 103500 		Predicted: 220523.17
+
+
+[-89120	]		 Actual: 138100 		Predicted: 227220.05
+
+
+[-83003	]		 Actual: 218100 		Predicted: 301103.17
+
+
+[-77204	]		 Actual: 152500 		Predicted: 229704.11
+
+
+[16880	]		 Actual: 272200 		Predicted: 255319.17
+
+
+[354841	]		 Actual: 500001 		Predicted: 145160.0
+
+
+[-153342	]		 Actual: 48800 		Predicted: 202142.0
+
+
+[51599	]		 Actual: 283600 		Predicted: 232000.01
+
+
+[-13286	]		 Actual: 200000 		Predicted: 213286.0
+
+
+[286702	]		 Actual: 500001 		Predicted: 213298.03
+
+
+[62759	]		 Actual: 293800 		Predicted: 231041.0
+
+
+[-11980	]		 Actual: 221300 		Predicted: 233280.0
+
+
+[-93560	]		 Actual: 108500 		Predicted: 202060.0
+
+
+[-49661	]		 Actual: 101800 		Predicted: 151461.0
+
+
+[-71254	]		 Actual: 171300 		Predicted: 242554.0
+
+

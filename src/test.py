@@ -15,9 +15,9 @@ import datetime
 # ])
 from Housing import pipeline
 
-data = pd.read_csv("housing.csv")
+data = pd.read_csv("../data/housing.csv")
 
-loaded_mdl = load("median_house_value_rfr_predictor_err_63652USD_.joblib")
+loaded_mdl = load("../data/median_house_value_rfr_predictor_.joblib")
 
 rng =randint(0,len(data)-50)
 somedata = data[rng:rng+50]
@@ -27,14 +27,15 @@ somedata_tr_X = pipeline.fit_transform(somedata_X)
 somedata_Y = somedata["median_house_value"].copy()
 predictions = loaded_mdl.predict(somedata_tr_X)
 
-with open("test_data.txt","w") as f:
+with open("../data/test_data.txt","w") as f:
     f.write("")
 
 test_data = f"{datetime.datetime.now()}\n\n"
 for i in range(len(predictions)):
-    test_data += f"\n\n{rng+i}:Predicted:   {predictions[i:i+1]},   Original:   {list(somedata_Y[i:i+1])}"
-    test_data += f"\nDifference:   {predictions[i:i+1] - list(somedata_Y[i:i+1])} "
+    test_data += f"[{int(somedata_Y.iloc[i] - predictions[i]) }\t]\t\t Actual: {somedata_Y.iloc[i]} \t\tPredicted: {predictions[i]}\n"
+    test_data += "\n\n"
 
 
-with open("test_data.txt","a") as f:
+
+with open("../data/test_data.txt","a") as f:
     f.write(test_data)
